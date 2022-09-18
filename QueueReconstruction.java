@@ -1,5 +1,5 @@
 // Time Complexity :  O(n log n) (sorting) + O(n^2) (insertion) = O (n^2)
-// Space Complexity : O(n) to keep the output
+// Space Complexity : O(n) to maintain the output
 // Did this code successfully run on Leetcode : Yes
 // Any problem you faced while coding this : No
 
